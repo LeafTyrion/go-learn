@@ -1,7 +1,7 @@
 package main
 
 import (
-	"10-Import/add"
+	"01-basic/10-Import/add"
 	"fmt"
 )
 
