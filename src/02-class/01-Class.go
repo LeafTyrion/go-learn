@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Person 结构体模拟类，类中不能直接写方法
+// Person 结构体模拟类，类中只有成员变量，不能直接写方法
 type Person struct {
 	name string
 	age  int
