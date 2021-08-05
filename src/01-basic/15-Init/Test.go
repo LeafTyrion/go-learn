@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "01-basic/15-Init/test" //只调用init函数，不调用其他的函数
 	"fmt"
+	_ "go-learn/src/01-basic/15-Init/test" //只调用init函数，不调用其他的函数
 )
 
 func main() {

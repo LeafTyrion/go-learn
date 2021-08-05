@@ -1,8 +1,8 @@
 package main
 
 import (
-	"01-basic/15-Init/test"
 	"fmt"
+	"go-learn/src/01-basic/15-Init/test"
 )
 
 func main() {
