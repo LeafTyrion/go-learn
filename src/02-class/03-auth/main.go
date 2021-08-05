@@ -1,8 +1,8 @@
 package main
 
 import (
-	"02-class/03-auth/test"
 	"fmt"
+	"go-learn/src/02-class/03-auth/test"
 )
 
 func main() {
