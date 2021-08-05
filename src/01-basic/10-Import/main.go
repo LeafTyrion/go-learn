@@ -1,12 +1,12 @@
 package main
 
 import (
-	"01-basic/10-Import/add"
 	"fmt"
+	"go-learn/src/01-basic/10-Import/add"
 )
 
 func main() {
 
 	print()
-	fmt.Print(add.Add(1, 1))
+	fmt.Print(add.Add(1, 2))
 }
